@@ -1,0 +1,16 @@
+DESCRIPCIONES CORTAS PARA PORTFOLIO
+====================================
+
+ENGLISH (340 characters):
+"Smart expense tracker built with Flutter & Firebase. Track spending, manage credit card installments, divide expenses with friends, analyze with AI, and export reports. Real-time sync across devices with offline-first approach."
+
+SPANISH (344 characters):
+"Gestor de gastos inteligente con Flutter y Firebase. Registra gastos, administra cuotas de tarjeta, divide gastos entre amigos, analiza con IA y exporta reportes. Sincronización en tiempo real con modo sin conexión."
+
+---
+
+Para usar en:
+- GitHub repository description
+- Portfolio website
+- LinkedIn project description
+- Resume/CV project section
